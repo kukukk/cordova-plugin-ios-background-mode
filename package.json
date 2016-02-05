@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-ios-background-mode",
+  "version": "1.0.0",
+  "description": "Sets UIBackgroundModes",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukukk/cordova-plugin-ios-background-mode.git"
+  },
+  "keywords": [
+    "cordova","ios9","UIBackgroundModes"
+  ],
+  "author": "Szabolcs Balogh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kukukk/cordova-plugin-ios-background-mode/issues"
+  },
+  "homepage": "https://github.com/kukukk/cordova-plugin-ios-background-mode#readme"
+}
