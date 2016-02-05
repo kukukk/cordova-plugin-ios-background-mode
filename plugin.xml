@@ -7,6 +7,8 @@
     <license>MIT</license>
     <keywords>cordova,ios9,UIBackgroundModes</keywords>
 
+    <preference name="BACKGROUND_MODE" />
+
     <!-- ios -->
     <platform name="ios">
         <!-- PLIST Entries -->
